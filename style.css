@@ -1,0 +1,44 @@
+body{
+    background-color: #6b705c;
+}
+
+.container1{
+   color: white;
+   display: grid;
+   grid-template-columns: 2;
+   grid-template-rows: 1;
+
+}
+
+.header{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Zilla Slab', serif;
+    font-size: 50px;
+    color: #ddbea9;
+
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    color: #ddbea9;
+   font-family: 'Major Mono Display', monospace;
+   font-size: 30px;
+    
+}
+
+.box{
+    margin: 15px;
+    text-decoration: underline;
+    
+}
+
+.body{
+display: grid;
+grid-template-columns: max-content;
+}
+
+#home-button{
+
+}
